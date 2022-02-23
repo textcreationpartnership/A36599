@@ -1,0 +1,295 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Murder will out, or, A clear and full discovery that the Earl of Essex did not feloniously murder himself, but was barbarously murthered by others both by undeniable circumstances, and positive proofs / vvritten by Henry Danvers ...</title>
+            <author>Danvers, Henry, d. 1687.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36599</idno>
+            <idno type="STC">Wing D224</idno>
+            <idno type="STC">ESTC R37271</idno>
+            <idno type="EEBO-CITATION">16306887</idno>
+            <idno type="OCLC">ocm 16306887</idno>
+            <idno type="VID">105270</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36599)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105270)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1090:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Murder will out, or, A clear and full discovery that the Earl of Essex did not feloniously murder himself, but was barbarously murthered by others both by undeniable circumstances, and positive proofs / vvritten by Henry Danvers ...</title>
+                  <author>Danvers, Henry, d. 1687.</author>
+               </titleStmt>
+               <extent>[4], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for E.R. and J.R.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Essex, Arthur Capel, --  Earl of, 1631-1683.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105270:1" rendition="simple:additions"/>
+            <p>Murder will out: Or, A Clear and Full DISCOVERY THAT THE EARL OF ESSEX Did not Feloniouſly Murder Himſelf; BUT WAS <hi>Barbarouſly Murthered</hi> By OTHERS: Both by Undeniable Circumſtances, and Poſitive Proofs.</p>
+            <p>VVritten by <hi>Henry Danvers</hi> 
+               <abbr>Eſq</abbr> in the Year 1684. and now Publiſhed for the general Information of all Proteſtants.</p>
+            <q>
+               <bibl>
+                  <hi>Numb 35.30 31, 33.</hi>
+               </bibl> You ſhall take no Satisfaction for the Life of a Murderer which is Guilty of Death. Whoſo Killeth any Per<g ref="char:EOLhyphen"/>ſon, the Murderer ſhall be put to Death. So ſhall you not pollute the Land, for Blood it defileth the Land, and the Land cannot be cleanſed of the Blood that is ſhed therein, but by the Blood of h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m that ſhed it.</q>
+            <q>
+               <bibl>
+                  <hi>Judg. 19.30.</hi>
+               </bibl> There was no ſuch deed done nor ſeen unto this day, <hi>&amp;c</hi>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>E. R.</hi> and <hi>J. R.</hi> 1689.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:105270:2"/>
+            <pb facs="tcp:105270:2" rendition="simple:additions"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>THO<g ref="char:V">Ʋ</g> haſt here a diſcovery of one of the most Inhumane and Barbarous Murders, that any Age or Story can Parallel, eſpecially if you conſider the Perſon who, the Place where, the man<g ref="char:EOLhyphen"/>ner how he was Murdered, and the Conſequences of them all.</p>
+            <p n="1">
+               <hi>1.</hi> The Perſon, it was the <hi>Earl of Eſſex;</hi> one of the Greateſt Men in the Three Nations; the Son of the great <hi>Capell,</hi> who laid down his Life for King <hi>Charles</hi> the First, and who himſelf had ſustained ſo many Honourable and great Offices and Employments in theſe Nations, filling up no leſs then a Vice King-Ship for many years in the Neighbour Nation; and as he was Great in Eminent Loyalty, Excellent Qualifications, Large Patrimony, and Honourable Allies, ſo no leſs a ſincere lover of his King and Countrey, and a Zealous Aſſertor of the Proteſtant Religion and Intereſt, againſt the Curſed Machinations of the Popiſh Party, which was therefore be<g ref="char:EOLhyphen"/>come his Crime, and rendred him ſo obnoxious.</p>
+            <p n="2">
+               <hi>2.</hi> The Place where he was Butchered, which was no other than in His Majeſties Royal Priſon and Palace, where (by d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſign as it appears) he was brought, the better to fall a Sacrifice to his Enemies. Being first lodged in the Lieutenants Houſe, then removed to his Slaughter-Houſe Capt. <hi>Hawlys,</hi> (and there kill'd the day after.) <hi>VVhere being now the Kings Priſoner, and out of his own de<g ref="char:EOLhyphen"/>ſence, and for whom the King and Kingdom were reſpondent,</hi> as Sir <hi>Fran. Bacon</hi> obſerves in Sir <hi>Tho. Overberyes</hi> Caſe, in the E. of <hi>Somerſets</hi> Tryal, <hi>was a thing that greatly aggravated the Fact, for certainly, ſaith he, Sir</hi> Tho. O. <hi>was the firſt Man that was Murdered in the</hi> Tower <hi>of</hi> London, <hi>ſave the Murder of the Two young Princes, by the appointment of</hi> Richard <hi>the</hi> Third; <hi>this being it ſeems the ſecond,</hi> with this further aggravation, That it was done at the very inſtant the K. himſelf was there in Perſon.</p>
+            <p n="3">
+               <hi>3.</hi> The manner how, <hi>viz.</hi> The Popiſh Conſpirators (his Mortal
+<pb facs="tcp:105270:3"/>Enemies) having thus gotten him within their reach, do by hired Cut-Throat Villains and Traytors, most Barbarouſly and Treache<g ref="char:EOLhyphen"/>rouſly Surpriſe, Aſſault, and Bloodily Aſſaſſinate this great Worthy in his own Chamber, cutting his Throat, almoſt to the cutting off his Neck, and afterwards by other Ruſſians (and that against the K. expreſs Command) inhumanely dragg, ſhamefully ſtript him, and baſely expoſe his Naked Body to publick view. And as tho this was not ſufficient to ſatiate their Malice, and Blood-thirſtineſs, thus to Murder his Perſon, they proceed (to the out-doing of <hi>Cain</hi> him<g ref="char:EOLhyphen"/>ſelf) to Murder his reputation, by charging their Horrid Guilt up<g ref="char:EOLhyphen"/>on himſelf; making him the Fellonious Self Murderer: And per<g ref="char:EOLhyphen"/>ſuing to the utmoſt Revenge, Slaughter, and Cruelty, any that ſhould dare to ſpeak the Truth, or contradict the ſame.</p>
+            <p n="4">
+               <hi>4.</hi> And as for the diſmal Conſequences, (ſome whereof have dire<g ref="char:EOLhyphen"/>fully appeared) which being impoſſible to expreſs, is left to every ones Conſideration.</p>
+            <p>But he who makes Inquiſition for Blood, who ſees in Secret, and brings to light the hidden Works of Darkneſs, hath by his Provi<g ref="char:EOLhyphen"/>dence greatly detected the ſame, both as to Perſons and things; ſome Account whereof you have, for your Satisfaction, in the following compendious Collections.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:105270:3"/>
+            <head>
+               <hi>Murder will out:</hi> Or, A Clear and Full DISCOVERY That the EARL of ESSEX Did not Feloniouſly Murder Himſelf; But was <hi>Barbarouſly Murthered</hi> By OTHERS, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <hi>The Proofs both Circumſtantial and Poſitive, that the Earl of</hi> Eſſex <hi>did not Feloniouſly Murder Himſelf, but was Barba<g ref="char:EOLhyphen"/>rouſly Murdered by others.</hi>
+            </p>
+            <p n="1">I. <hi>THat he did not Murder Himſelf you have E<g ref="char:EOLhyphen"/>vinced.</hi>
+            </p>
+            <list>
+               <item>1. <hi>From the Improbabilities that he ſhould do it.</hi>
+               </item>
+               <item>2. <hi>From the Impoſſibilities that he could SO do it.</hi>
+               </item>
+            </list>
+            <p n="2">
+               <pb n="2" facs="tcp:105270:4"/>II. <hi>That he was Murdered by others, you have made good,</hi>
+            </p>
+            <list>
+               <item>1. <hi>By <g ref="char:V">Ʋ</g>ndeniable Circumſtances.</hi>
+               </item>
+               <item>2. <hi>By Poſitive Proofs Offered.</hi>
+               </item>
+            </list>
+            <p n="1">1. That the E. of <hi>E.</hi> did not Murder himſelf as the Inqueſt declares: Appears,
+<list>
+                  <item>1, <hi>From the Improbabilities that he ſhould ſo do.</hi>
+                     <list>
+                        <item>1. Becauſe of that excellent Sedate and well-compoſed Natural temper he was well known to be of, and free from ſuch Melancholy and Frenſical Fits, which might encline and expoſe him to ſuch a Miſchief, whatever maliciouſly and falſly had been ſaid to the contrary.</item>
+                        <item>2. Becauſe of that grace and fear of God, he was ſo eminently endowed with, which would ſecure him from ſuch Impiety.</item>
+                        <item>3. Becauſe of that abhorrency by Principle which he was well known to have of ſuch unnatural practiſes (whereof he could not ſpeak without great emotion of Spirit) whatever the better to colour the Murder, and ſix it upon him, had been moſt villanouſly reported, and ſpread abroad to the contrary.</item>
+                        <item>4. Becauſe of the careful Proviſion he made for his own preſervation, after he came into the <hi>Tower</hi> fearing the worſt.
+<list>
+                              <item>1. By ſending for his own Silver V<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>ſſel to dreſs his Meat in by his own People,</item>
+                              <item>2. By that ſtore of all ſorts of Wine, he had ordered to be <gap reason="illegible" resp="#PDCC" extent="1 word">
+                                    <desc>〈◊〉</desc>
+                                 </gap> in for his own drinking,</item>
+                              <item>3. By the direction he had given to his Servant, to take Notes of my Lord <hi>Ruſſel</hi>'s Tryal, that very day for his own uſe; all ample indications he de<g ref="char:EOLhyphen"/>ſigned ſelf-preſervation, not ſelf-deſtruction.</item>
+                           </list>
+                        </item>
+                        <item>5. Becauſe as his Conſcience was clear from any Treaſonable Guilt, (whatever to the contrary has been moſt wickedly ſuggeſted) ſo was he free from either legal Witneſſes or Conviction, there being no Bill of In<g ref="char:EOLhyphen"/>dictment found againſt him, as againſt others the day before, which might ſufficiently ſecure him from needleſs fears, or any ſuch deſperate courſe, tho had his zeal and affection to his King, Country and Religion, (whom he might apprehend to have been in danger) tranſported him to any irre<g ref="char:EOLhyphen"/>gularity, his Fathers, as well as his own extraordinary merits from the Crown, might well be ſuppoſed (from ſo grateful and compaſſionote a Prince) would plead his Pardon, and free hin from ſuch Deſperation.</item>
+                        <item>6. Becauſe of that intire Love and Friendſhip he bore to his moſt dear friend; the Lord <hi>R.</hi> which both in Honour and Conſcience, would forbid
+<pb n="3" facs="tcp:105270:4"/>and deterr from ſuch an Action, which muſt ſo neceſſarily tend to the cer<g ref="char:EOLhyphen"/>tain ruine and deſtruction of his beſt Friend, and which fell out according<g ref="char:EOLhyphen"/>ly from the ſiniſter conſtruction they made thereof.</item>
+                        <item>7. Becauſe of the previous notice given thereof in diverſe places, which to be ſure he would never have done, had he deſigned any ſuch thing.</item>
+                     </list>
+                  </item>
+                  <item>2. <hi>From the Impoſſibilities that he could ſo do as the Inqueſt declares.</hi>
+                     <list>
+                        <item>1. Becauſe it was impoſſible that he at one cut (as the Verdict ſaith) could cut 4 Inches in depth, and 8 in length, becauſe none can manage his hand to guide a Razor ſo to do at once, <hi>viz.</hi> From the left-ſide of the Neck-boue, to the right.</item>
+                        <item>2. Becauſe it is impoſſible that with that French Razor, which was but 4 Inches and a half long, and without a Tongue (neceſſitating to take 2 Inches and a half at leaſt in his Hand) that he could with 2 Inches of ſuch an Inſtrument cut 4 or 5 Inches in depth and 8 or 9 in length.</item>
+                        <item>3 Becauſe it is impoſſible in Nature, that when he had cut the left Jugu<g ref="char:EOLhyphen"/>lar and Wind-pipe to the Neck-bone (which let out ſo much of the Blood and Vitals, that he could have either life or ſtrength, to proceed to cut the other alſo, as all skilful Chyrurgeons and Anatomiſts can demon<g ref="char:EOLhyphen"/>ſtrate.</item>
+                        <item>4. Becauſe it was utterly impoſſible, that after he had lockt himſelf in<g ref="char:EOLhyphen"/>to the Cloſet, he could ſo cut his Throat as it was, and then opon the Cloſet door, and fling the Bloody Razor out of the Chamber Window, at ſuch a diſtance from the Cloſet, and then get the Razor up again, and keep it in his hand (as ſome) or fling it by him (as others) and all this after he was Dead, for he inſtantly dyed ſaith the Inqueſt, and none but himſelf in the Room ſay their Witneſſes, therefore it was impoſſible he could with that Razor ſo Murder himſelf. And that the Bloody Razor was flung out of the Chamber Window, is made good by no leſs then ten Witneſſes.</item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p>Thus have you ſome Grounds and Reaſons (from the improbability and impoſſibility of the thing) to clear his Innocency from the Horrid Fact, ſo impudenty charged upon him, and conſequently the guilt of others and which may be ſufficient to all wiſe Men, to detect the Murder, and in<g ref="char:EOLhyphen"/>force a review, if no other evidence could be produced: tenfold leſs, has done it, in other Caſes, it being ſo difficult many times to get light, and trace ſuch Secret hidden works of darkneſs, as Sir, <hi>Fran. Bacon</hi> eleganly in Sir <hi>Tho. O.</hi> caſe tells us, <hi>That wiſe men muſt take upon them in theſe Secret Caſes,</hi> Solomons Spirit, <hi>that when there could be no Witneſſes, collected the Act by the affection, viz.</hi> VVhen he uſed the Stratagem about dividing the Child, but this you'll find is not our caſe, providence having given us a larger proviſion as you will further hear.</p>
+            <p>Secondly, <hi>That he was Barbarouſly Murdered by others appears.</hi> 1. <hi>By the
+<pb n="4" facs="tcp:105270:5"/>undeniabl Ci<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>umſtances, ariſing</hi>
+               <list>
+                  <item>1. <hi>From the previous Reports.</hi>
+                  </item>
+                  <item>2. <hi>From the corrupt and partial proceedings of the Coroner and his Inqueſt.</hi>
+                  </item>
+                  <item>3. <hi>From the Conſpirators Villanous ends. And</hi>
+                  </item>
+                  <item>4. <hi>From the Wicked Methods uſed to ſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>fle it.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">1. <hi>By the undeniable Circumstances, ariſing</hi>
+            </p>
+            <list>
+               <item>1. <hi>From the many previous Reports which they had ſpread of his Self-Murder</hi> (a method the Papiſts have heretofore taken (but the Policy there<g ref="char:EOLhyphen"/>of never yet underſtood) <hi>viz.</hi> When they ſtabb'd <hi>H.</hi> the IV. of <hi>France,</hi> Burnt <hi>London,</hi> Aſſaſſinated Sir <hi>E. B. G.</hi> and Murdered <hi>Hawly</hi> the Warder) of which diverſe undeniable proofs have been and are ready to be produ<g ref="char:EOLhyphen"/>ced of ſuch reports, not only in <hi>London,</hi> but 50, 60, 80, 90, 100 Miles off; in ſome places a day, in ſome two days, in others (at a great diſtance) the very day he was Murdered; and as moſt Remarkable (as God would have it) all agreeing in the very manner thereof, <hi>viz.</hi> Cutting his Throat in the <hi>Tower.</hi> At <hi>Andover</hi> 60 Miles off, they had the report of his Cutting his Throat in the <hi>Tower</hi> the 11th of <hi>July,</hi> which was the firſt day of his Impriſonment there (for by reaſon of his late Commitment the Night be<g ref="char:EOLhyphen"/>fore, he lay at the <hi>French</hi> Lord <hi>Feverſhams</hi> in <hi>White-Hall</hi>) which ſufficient<g ref="char:EOLhyphen"/>ly diſcovers what they deſigned before-hand, for if this Report came from <hi>London,</hi> it muſt be before he was a Priſoner, at leaſt in the <hi>Tower,</hi> and two days before the thing was done.</item>
+               <item>2. <hi>From the irregular corrupt partial and unjuſt Proceedings of the Coronor and his Inqueſt.</hi>
+                  <list>
+                     <item>1. That one <hi>Farnham,</hi> ſaid to be a Deputy Coroner, which the Law knows nothing of; and to be be ſure a Legal Coroner he was not, Sir <hi>Tho. Stringer</hi> the Steward of the <hi>Tower</hi> being the proper Officer, and accoun<g ref="char:EOLhyphen"/>table for that great truſt, but this is the Tool who muſt be brought forth to do the Jobb</item>
+                     <item>2. That none of the Relations were ſummoned to attend the Inqueſt, which by known uſage ought to have been.</item>
+                     <item>3. That contrary to the known Cuſtome and Uſage, not only of our own, but other Nations, as well as the Kings ſpecial and expreſs Com<g ref="char:EOLhyphen"/>mand, the Body was removed from the place and poſture it was ſaid firſt to be found in, ſtript, and Cloaths taken away, and Body and Rooms waſht from the Blood, to prevent the notoriety of the Fact upon view; and as ſayed, by the new Coroners contrivance or conſent, (which m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>kes it the more hainous and ſuſpitious) for had it remained in the place, and poſture it was ſaid firſt to be found in, the print of the Bloody Foot upon the Stockings, the Cravat or Neck-cloath being cut into four pieces in the middle; and the contrary witneſſes, who ſpeak both as to place and po<g ref="char:EOLhyphen"/>ſture, would have clearly diſcovered the Murder. The Notched Razor and Cut Hand, being moſt pregnant Circumſtances, yet little regarded.</item>
+                     <item>4. That the Jury excepted againſt the removing of the Body from the
+<pb n="5" facs="tcp:105270:5"/>poſture and place, and demanded a view of the Cloaths which <hi>William Fiſher</hi> did by name, yet was denyed the ſame by the Coroner, after he had been in the next Room, with ſome of the Conſpirators, who had call'd him out upon that <hi>Demand,</hi> and who upon his return to the Jury again did de<g ref="char:EOLhyphen"/>clare to them (as ignorantly as wickedly) that they were to ſit upon the Body, not the Clothes.</item>
+                     <item>5. The partial Examination of Witneſſes, that tho there were ſeveral in and about the Houſe when the Fact was done, yet only <hi>Bomeny</hi> and <hi>Ruſſel</hi> who they might juſtly ſuſpect to be privy to it, muſt be the principal Wit<g ref="char:EOLhyphen"/>neſſes they'll examine in the Caſe, taking little notice of <hi>Peck, Munden, Lloyd,</hi> Captain <hi>Hawley</hi> himſelf, or the two Women.</item>
+                     <item>6. The little regard had to the notorious contradictions in the Wit<g ref="char:EOLhyphen"/>neſſes, they did, or might examine; <hi>Bomeny</hi> telling them, the Razor was given him (wherewith he cut his Throat) the 12 of <hi>July,</hi> and <hi>Ruſſel</hi> the 13; <hi>Bo<g ref="char:EOLhyphen"/>meny</hi> that <hi>Ruſſel</hi> broke open the Door, but <hi>Ruſſel</hi> that he eaſily opened it with the Key on the outſide; <hi>Bomeny</hi> that he could only through the chink of the Door, ſee ſome Blood and ſome part of the Razor, but <hi>Ruſſel</hi> that he could through the ſame chink ſee the whole Body; <hi>Bomeny</hi> and <hi>Ruſſel</hi> that the whole Body lay in the Cloſet, and none of it to be ſeen in the Chamber, but <hi>Peck</hi> and others, that part of it lay in the Chamber; <hi>Bomeny</hi> and <hi>Ruſſel</hi> that they were abſent but a quarter of an hour from my Lord, but to others <hi>Bomeny</hi> owns he was abſent from him two or three hours, in ſo much as he was cold and ſtiff before he ſaw him; ſome that he was found lying, others kneeling.</item>
+                     <item>7. That they unduly ſuffered themſelves to be hurried into a Verdict, by the Meſſage brought them by Capt. <hi>Hawley</hi> in the K. Name, to haſten the ſame; as though the death of ſo great a man, and in that place too, de<g ref="char:EOLhyphen"/>ſerved not a ſerious and due ſearch, eſpecially when they ſaw ſuch foul play offered them, by removing Body and Cloaths, and denying a view of the Cloaths, and when none of the Relations preſent, and ſo few of the Witneſſes Examin'd, and thoſe in ſo much contradiction too.</item>
+                     <item>8. By the unheard of drawing their Verdict, which was done not by the Coroner, nor by the Jury amongſt themſelves, as it ought to have been, but by one of the Conſpirators themſelves in the next Room, who ſent it to them by <hi>Bomeny,</hi> and which they ſigned accordingly.</item>
+                     <item>9. By giving ſo wicked and falſe a Verdict upon their Oaths, which was this, <hi>viz. That the E. of</hi> Eſſex <hi>being the</hi> 13 <hi>of</hi> July <hi>alone in his Chamber, did with a Razor Voluntarily and Feloniouſly cut his Throat, giving unto him<g ref="char:EOLhyphen"/>ſelf one mortal Wound, cut from one Jugular to the other, and by the</hi> Aſpera Arteria, <hi>and the Wind-Pipe, to the</hi> Vertebraes <hi>of the Neck, both the Jugulars being thoroughly divided, of which ſaid Wound the Earl inſtantly died.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <p>This was the Conſpirators Diabolical writing, which they impoſed
+<pb n="6" facs="tcp:105270:6"/>upon the Jury, and they made their Verdict both Coroner and Inqueſt by Subſcribing it.</p>
+            <p>It falſly ſaith he was alone in the Chamber, whereas by the flinging out the Bloody Razor, as well as by ſufficient Teſtimony, it will appear that ſeveral went up and came out at that time.</p>
+            <p>It alſo faſly ſaith he did give himſelf with that Razor one mortal wound of ſuch a length, and ſuch a depth, which are utter impoſſibilities, as before.</p>
+            <p n="3">3. <hi>From the Villanous ends the Conſpirators had to effect and carry on here<g ref="char:EOLhyphen"/>by,</hi> viz.</p>
+            <list>
+               <item>1. To confirm a Proteſtant Plot, a thing which they had long and of<g ref="char:EOLhyphen"/>ten laboured, and as often been diſappointed in, and which was ſo im<g ref="char:EOLhyphen"/>proved by the Atturney General, <hi>as</hi> 1000 <hi>Witneſſes to make it good,</hi> as alſo by the <hi>L. Ch.</hi> Juſtice, <hi>as the Finger of God, to convince all the World thereof,</hi> the ſad conſequence whereof hath ſince been ſo ſeverely felt.</item>
+               <item>2. Utterly to ſtifle the Popiſh Plot, witneſs the Bayling, the Popiſh Lords Impeached and committed by Parliament, out of the <hi>Tower,</hi> and the publick prints to ridicule the ſame ever ſince.</item>
+               <item>3. To deſtroy the L. <hi>Ruſſel,</hi> and therefore done at the very inſtant he was to come to his Tryal, and ſo improved by the Lawyers to the Jury, which ſome of them have owned did more prevail with them to bring him in Guilty, than any other proof produced againſt him.</item>
+               <item>4. That they might remove out of the way ſo great a Champion of the Proteſtant Cauſe and Intereſt, who by his great Imployments and Truſts in this and the other Nation, had gained ſo perfect knowledge of their Popiſh horrid Intreagues, the way they have taken of old, both in this and other Nations; and whereof divers Inſtances might be given, beſides that of Sir <hi>E. B. Godfry,</hi> whoſe wounds bleed afreſh at the mentioning hereof.</item>
+               <item>5. That hereby they might carry on a Helliſh deſign againſt the King himſelf, as tho he had been privy hereto, by not only Butchering him in that his Royal Priſon and Palace (whereby the Law he becomes pledg for the ſafety and forth-coming of the Priſoner) and at a time when he was there in Perſon; where he had not been for divers years before; and as tho he came purpoſely to order the doing thereof, and to Intitle the Go<g ref="char:EOLhyphen"/>vernment to it. Which the Lord Chief-Juſtice doth ſo often Inculcate: If he was indeed then Murdered by others from the K. preſence there [in <hi>Bradons</hi> Tryal] As alſo by that their horrid Preſumption, in ſending in the K. Name to haſten and hurry the Jury into that corrupt Verdict, and ſo daringly and contemptuouſly to remove the Body, contrary to the K. expreſs Command by a Perſon of Quality.</item>
+            </list>
+            <p n="4">4. <hi>From the Methods which have been uſed to ſtiflle the diſcovery hereof, and to deter men from inquiring into the matter.</hi>
+            </p>
+            <list>
+               <item>1. By the Lawyers and Judges, who have declared that whoever went
+<pb n="7" facs="tcp:105270:6"/>about to prove the E. of <hi>E.</hi> murdered, did no other than libel the Govern<g ref="char:EOLhyphen"/>ment, and bring the Guilt of his Blood upon it.</item>
+               <item>2. By the ſtrict Command given by the Officers of the Guards in the Tower, the day after the Murder, to all the Souldiers, not to ſpeak one word thereof at their Perils.</item>
+               <item>3. By the ſevere Proſecutions, and Perſecutions of thoſe who have ap<g ref="char:EOLhyphen"/>peared herein, both as to their Eſtates, Perſons, Lives and Liberties.
+<p>Witneſs, the turning out of old <hi>Edwards</hi> from his place in the <hi>Custom<g ref="char:EOLhyphen"/>houſe,</hi> wherein he had been 29 years, for only bidding his Son upon his Bleſ<g ref="char:EOLhyphen"/>ſing ſpeak the truth in the Caſe; &amp; the many ſeverities to Mr. <hi>Bradon</hi> for de<g ref="char:EOLhyphen"/>claring what others had ſaid about it; &amp; the ſevere dealing with Mr. <hi>Hugh Speak</hi> for the ſame: as alſo that late cruel uſage of that poor Souldier in the Tower, becauſe he would not affirm the E of <hi>E.</hi> murdered himſelf; who was firſt whipped with Cords till the skin was flay'd off. 2. After that Scurged with Rods. And 3. put upon the Wooden-horſe with 6 Muſ<g ref="char:EOLhyphen"/>quets at his Heels, Sword broken and caſhierd. But eſpecially, the Deſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ru<g ref="char:EOLhyphen"/>ction of <hi>Rob. Meak</hi> the Centinel, for telling what he heard and ſaw that day of the bloody Tragedy: whoſe Neck was therefore broke, and f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ung into the <hi>Tower</hi>-Ditch; who declared before-hand to his Friends, how his life was threatned for the ſame. As alſo <hi>H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>wly</hi> the Warder, who was ſer<g ref="char:EOLhyphen"/>ved in like manner for blabbing; whoſe murdered Body was about a Month after it was miſſing, taken up near <hi>Rocheſter,</hi> where a great Popiſh Lord declared ſeveral days before he was found, that he had there drowned himſelf.</p>
+               </item>
+               <item>4. By the endeavours which have been uſed to prevent, the Review, which by 2 Letters to 2 Noble Men, and the Letters to the Lady <hi>E.</hi> ſent openly by a Meſſenger to <hi>Godman</hi> the Bookſeller, which he brought to Ju<g ref="char:EOLhyphen"/>ſtice <hi>Henton,</hi> and he to the Secretary; all of them purporting a d<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>covery upon Indemnity and a Review, but all in vain.</item>
+            </list>
+            <p n="4">4. <hi>By poſitive Proofs, atteſting the Murder, that of Indemnity may be granted as was offered in Sir</hi> E. B. G's <hi>caſe; and a freſh Legal Enquiry, as, in Sir.</hi> Tho. O. <hi>Caſe, and others, there will then be produced poſitive Evidence, which will declare who were the Contrivers and Authors, who the Actors and Abetters of this Barbarous, deteſtable Murder, deſcribe the Inſtrument with which it was done, and which was made on purpoſe for the ſame: The rewards and preferments to the reſpective Actors therein, with all the material Circum<g ref="char:EOLhyphen"/>ſtances about it. Which Enquiry was ſucceſsfully made in Sir</hi> Tho. O's <hi>caſe, after the</hi> Coroners <hi>Inqueſt had found it (as ſaid) a natural Death. And by which after more then two years ſtiſted by a high hand, the then Principal Miniſter of State and his Aſſociates, with the Lieutenant of the</hi> Tower, <hi>and others, were ſearcht into, found Guilty, and many of them Executed for that hor<g ref="char:EOLhyphen"/>rid Murder, committed upon that Innocent Gentleman in the</hi> Tower.</p>
+            <div type="conclusion">
+               <pb n="8" facs="tcp:105270:7"/>
+               <head>The Concluſion.</head>
+               <p>NOw may not this Diſmal Tragical Account (which carries ſo much Demonſtration in it) be well left without a Comment, or any Rhe<g ref="char:EOLhyphen"/>torical ſtrain of Wit, or flouriſh of Eloquence, either to convince or ſa<g ref="char:EOLhyphen"/>tisfy the Reader of the Truth hereof, or provoke him to the diſcharge of that duty incombent upon him in his Place or Station (which ſo Barbarous and unheard of Murder calls for at his hand) the better to deliver himſelf and the Nation from the Crying Sin of Blood Guiltineſs: And which is therefore left to the Conſideration and Conſcience of all that hear thereof in general; and to all the Miniſters of Juſtice and his Fellow Peers in ſpe<g ref="char:EOLhyphen"/>cial, whoſe Oaths, Honours, and Intreſts, may Oblige them to their duties herein; And who in reaſon ought to feel the Bleeding ſmart of this Bloody Stab, not knowing which of their own turns may be next. And to his Relations and Kindred in particular, who are more then others call'd forth in a peculiar manner, to make a further and better Inquiſition after his Blood, then hath yet been made, eſpecially after this full Diſco<g ref="char:EOLhyphen"/>very is offered to them, as they would vindicate his Innocency, wipe off the ſtain of Fellony, Murder and Treaſon, from the Noble Family; de<g ref="char:EOLhyphen"/>liver themſelves from the reproach of being brib'd by the forfeited Eſtate to hold their Tongues, and ſuffer others to be ſo ſeverely handled as offici<g ref="char:EOLhyphen"/>ous for appearing therein, under their ſilence: And as they would free themſelves from the Guilt of his Blood, and anſwer the neglect to God and Man. Laſtly to all thoſe (of which there are many) who either as Acceſſaries or Actors, have imbrew'd their hands in this Innocent Blood; whether ſince they are ſecretly known, it will not be their wiſeſt and beſt courſe (as ſome did in Sir <hi>Tho. O</hi>'s caſe) to come forth and confeſs, and give Glory to God, as they may hope for Mercy here, or hereafter, and not to think to ſhelter themſelves under Gold and Greatneſs; which will be a covering (in this caſe) too ſhort for the greateſt themſelves, becauſe God who is the Avenger of Blood, and to whom vengeance belongs; will bring all to the Houſe top, and recompence them according to their Deeds; There being <hi>no Darkneſs nor ſhadow of Death, where the Workers of Iniquity may hide themſelves.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:105270:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
